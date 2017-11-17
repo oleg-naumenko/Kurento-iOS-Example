@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import <KurentoToolbox/KurentoToolbox.h>
 
 @interface ViewController ()
 
